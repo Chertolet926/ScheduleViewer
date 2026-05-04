@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scheduler Viewer</string>
+    <string name="settings_description">Settings</string>
+</resources>
